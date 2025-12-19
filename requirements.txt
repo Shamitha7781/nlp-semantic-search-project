@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+torch
+transformers
+sentence-transformers
+beautifulsoup4
+contractions
